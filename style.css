@@ -37,3 +37,10 @@ footer{
 footer img:hover{
     opacity: 0.5px;
 }
+li:hover{
+    color: red;
+}
+h1:hover{
+    opacity: 0.2;
+    color:red;
+}
