@@ -19,6 +19,7 @@ body{
     color: olivedrab;
    background-color: orange;
 }
+
 main{
     text-align: center;
     border: 15x double olive;
@@ -43,4 +44,23 @@ li:hover{
 h1:hover{
     opacity: 0.2;
     color:red;
+}
+h1{
+    text-align: center;
+}
+footer img:hover{
+    width: 20%;
+    height: 20%;
+}
+main p{
+    border: 3px solid olive;
+    border-radius: 20px;
+}
+h2:hover{
+    color: rebeccapurple;
+}
+div {
+    border: 3px solid olive;
+    margin-top: 10px;
+    border-radius: 20px;
 }
